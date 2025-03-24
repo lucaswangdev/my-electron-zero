@@ -1,0 +1,15 @@
+{
+  "name": "my-electron-zero",
+  "version": "0.0.1",
+  "description": "electron tool test",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lucaswangdev",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "35.0.3"
+  }
+}
